@@ -2,6 +2,9 @@
 
 ## WIP
 
+## [0.4.1.4] - 2024-04-13
+  - Loosen th-desugar upper bound
+
 ## [0.4.1.3] - 2022-09-25
   - Loosen th-desugar upper bound
 
