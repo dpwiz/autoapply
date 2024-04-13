@@ -64,7 +64,7 @@ library
     , logict
     , mtl
     , template-haskell
-    , th-desugar >=1.12 && <1.15
+    , th-desugar >=1.12 && <1.17
     , transformers
     , unification-fd
   default-language: Haskell2010

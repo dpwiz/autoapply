@@ -313,7 +313,7 @@ test22 = undefined
 --
 -- >>> x = $(autoapply [] [] 'test23)
 -- <BLANKLINE>
--- <interactive>:...: error:
+-- <interactive>:...: error:...
 --     • "Impossible" Finding argument provenances failed (unless the function context containts a class with no instances)
 --     • In the untyped splice: $(autoapply [] [] 'test23)
 class MyClassWithNoInstances (a :: Type) where
